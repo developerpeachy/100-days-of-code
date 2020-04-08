@@ -48,8 +48,10 @@ My goals for this challenge: :star:
 
 ### Day 4: April 8, 2020
 
-**Today's Progress**: Forked 100DaysOfCode repo and added my log notes, cleaned up code on website.
+**Today's Progress**: Forked 100DaysOfCode repo and added my log notes, FIXED my bug!!
 
 **Thoughts**: I couldn't write as much code as I wanted to tonight, because my family are doing some Easter things. I had instead, forked the 100 Days of Code repo and entered my logs for the past few days. I have also cleaned up the code on my website, but nothing much to commit here! Happy Passover! :heart:
+
+EDIT: I managed to fix my Light/Dark mode bug on my website! It turned out that I needed to make the Header component and add all my logic for switching from Light -> Dark mode in there. I'm so glad i fixed this tonight!
 
 **Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
