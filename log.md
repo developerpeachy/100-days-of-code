@@ -1,30 +1,35 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: April 4 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+##### Project: rosalie.dev
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Scrapped redundant code, re-build CSS.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I struggled a bit with this rebuild in terms with, package versions and updating other packages and removing libraries that no longer serve the purpose. I have succeeded in making a successful build that was suitable for tomorrow's work. (1.5hr)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link to work:** [Rosalie's website](http://www.rosalie.dev)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: April 5, 2020
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Added styled-components, fonts and redesigned the app using Figma.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: Adding fonts was a bitch, but we got there. I used Styled components, and utilised ThemeConsumer and GlobalStyles properties to append styles/fonts to the NextJS app. Pushed these changes to master to reflect them in production.
 
+**Link(s) to work**: [Rosalie's website](http://www.rosalie.dev)
 
-### Day 1: June 27, Monday
+### Day 2: April 6, 2020
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Added the dark/light mode toggle using React Hooks and styled-components.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: This was challenging to add with NextJS. To change the theme colors, I discovered that we had to append the theme colour scheme to the ThemeProvider which was in \_app.js. This worked successfully when adding in Header component inside \_app.js. I soon realised that this was not a sustainable idea and I discovered a bug when you refresh or first land on the website. I have an idea on how to fix this and will look at the issue closely tomorrow.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: [Rosalie's website](http://www.rosalie.dev)
+
+### Day 3: April 7, 2020
+
+**Today's Progress**: Dark/Light mode bug: on refresh.
+
+**Thoughts**: I didn't write any code, but I have been doing more research into how NextJS handles state and I have an idea on how to fix this bug. I'd say today was not a code day, but rather a background research day. I had passover tonight and I couldn't code/work on this after dark.
+
+**Link(s) to work**: [Rosalie's website](http://www.rosalie.dev)
