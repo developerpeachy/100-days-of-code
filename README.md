@@ -10,7 +10,7 @@ My goals for this challenge: :star:
 - Contribute to open source code
 - Having something to do while under lockdown (thanks Coronavirus -- no I don't have the coronavirus!).
 
-# 100 Days Of Code - Log
+# 100 Days Of Code :sparkles:
 
 ### Day 0: April 4 2020
 
@@ -46,7 +46,7 @@ My goals for this challenge: :star:
 
 **Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
 
-### Day 4: April 7, 2020
+### Day 4: April 8, 2020
 
 **Today's Progress**: Forked 100DaysOfCode repo and added my log notes, cleaned up code on website.
 
