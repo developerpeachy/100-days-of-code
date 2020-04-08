@@ -16,7 +16,7 @@
 
 **Thoughts**: Adding fonts was a bitch, but we got there. I used Styled components, and utilised ThemeConsumer and GlobalStyles properties to append styles/fonts to the NextJS app. Pushed these changes to master to reflect them in production.
 
-**Link(s) to work**: [Rosalie's website](http://www.rosalie.dev)
+**Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
 
 ### Day 2: April 6, 2020
 
@@ -24,7 +24,7 @@
 
 **Thoughts**: This was challenging to add with NextJS. To change the theme colors, I discovered that we had to append the theme colour scheme to the ThemeProvider which was in \_app.js. This worked successfully when adding in Header component inside \_app.js. I soon realised that this was not a sustainable idea and I discovered a bug when you refresh or first land on the website. I have an idea on how to fix this and will look at the issue closely tomorrow.
 
-**Link(s) to work**: [Rosalie's website](http://www.rosalie.dev)
+**Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
 
 ### Day 3: April 7, 2020
 
@@ -32,4 +32,4 @@
 
 **Thoughts**: I didn't write any code, but I have been doing more research into how NextJS handles state and I have an idea on how to fix this bug. I'd say today was not a code day, but rather a background research day. I had passover tonight and I couldn't code/work on this after dark.
 
-**Link(s) to work**: [Rosalie's website](http://www.rosalie.dev)
+**Link(s) to work**: [Rosalie's website](https://rosalie.dev/)

@@ -1,39 +1,55 @@
-# I've joined the #100DaysOfCode Challenge
+# I've joined the #100DaysOfCode Challenge!
 
-## Contents
+I forked this from: [Original Repo](https://github.com/kallaway/100-days-of-code)
+And here is the [The #100DaysOfCode Official Site](http://100daysofcode.com/)
 
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+My goals for this challenge: :star:
 
-## Translations
-[বাংলা](intl/bn/README.md) - [català](intl/ca/README.md) - [中文](intl/ch/README.md) - [deutsch](intl/de/README.md) - [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [italiano](intl/it/README.md) – [日本語](intl/ja/README.md) - [한국어](intl/ko/README-ko.md) – [norsk](intl/no/README.md) –  [polski](intl/pl/README.md) - [português do Brasil](intl/pt-br/LEIAME.md) - [русский](intl/ru/README-ru.md) – [українська](intl/ua/README-ua.md) - [ελληνικά](intl/el/README.md)
+- Become better with my front-end development skills
+- Learn something new everyday
+- Contribute to open source code
+- Having something to do while under lockdown (thanks Coronavirus -- no I don't have the coronavirus!).
 
-If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
+# 100 Days Of Code - Log
 
-## If you've decided to join:
+### Day 0: April 4 2020
 
-0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
-    Also, [here](https://100xcode.slack.com/join/shared_invite/enQtOTE0NjE3Nzc3ODg4LTY0NDliODc5YWYyODc1OWVmNTllYWRhMDZmMTQwMmI3MTY0N2UxYWQwYjRiMjEzZTI0ZTIzYTdkNWY4MWM5MzE) is a invite link to the 100DaysOfCode Slack channel
-1.  Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-2.  Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-3.  **Code minimum an hour every day for the next 100 days.**
-4.  **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
-5.  Change the date in [Rules](rules.md) to the day you've started the challenge.
-6.  Delete the examples in the log, or comment them out, and start filling it with your own content.
-7.  **Tweet your progress every day using the #100DaysOfCode hashtag.**
-8.  Follow [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
-9.  Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
-10.  If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
+##### Project: rosalie.dev
 
-## Want to change other habits?
+**Today's Progress**: Scrapped redundant code, re-build CSS.
 
-Check out [the #100DaysOfX Challenges Project](http://100daysofx.com/). Changing your habits you are changing your life. Remember that the best time to start is always NOW.
+**Thoughts:** I struggled a bit with this rebuild in terms with, package versions and updating other packages and removing libraries that no longer serve the purpose. I have succeeded in making a successful build that was suitable for tomorrow's work. (1.5hr)
 
-I recommend that you commit to no more than 2-3 challenges at a time, ideally 2. If you are doing the #100DaysOfCode which involves a lot of mental activity, try the [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), or [#100DaysOfFitness](http://100daysofx.com/challenges/) challenges. There is so much more on the site, check all of them out and choose the ones you want to acquire! Languages, writing, meditation, journaling, cooking, and more!
+**Link to work:** [Rosalie's website](http://www.rosalie.dev)
 
-## Note
+### Day 1: April 5, 2020
 
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
-* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) and forking it :)
+**Today's Progress**: Added styled-components, fonts and redesigned the app using Figma.
+
+**Thoughts**: Adding fonts was a bitch, but we got there. I used Styled components, and utilised ThemeConsumer and GlobalStyles properties to append styles/fonts to the NextJS app. Pushed these changes to master to reflect them in production.
+
+**Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
+
+### Day 2: April 6, 2020
+
+**Today's Progress**: Added the dark/light mode toggle using React Hooks and styled-components.
+
+**Thoughts**: This was challenging to add with NextJS. To change the theme colors, I discovered that we had to append the theme colour scheme to the ThemeProvider which was in \_app.js. This worked successfully when adding in Header component inside \_app.js. I soon realised that this was not a sustainable idea and I discovered a bug when you refresh or first land on the website. I have an idea on how to fix this and will look at the issue closely tomorrow.
+
+**Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
+
+### Day 3: April 7, 2020
+
+**Today's Progress**: Dark/Light mode bug: on refresh.
+
+**Thoughts**: I didn't write any code, but I have been doing more research into how NextJS handles state and I have an idea on how to fix this bug. I'd say today was not a code day, but rather a background research day. I had passover tonight and I couldn't code/work on this after dark.
+
+**Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
+
+### Day 4: April 7, 2020
+
+**Today's Progress**: Forked 100DaysOfCode repo and added my log notes, cleaned up code on website.
+
+**Thoughts**: I couldn't write as much code as I wanted to tonight, because my family are doing some Easter things. I had instead, forked the 100 Days of Code repo and entered my logs for the past few days. I have also cleaned up the code on my website, but nothing much to commit here! Happy Passover! :heart:
+
+**Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
