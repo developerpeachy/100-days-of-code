@@ -55,3 +55,11 @@ My goals for this challenge: :star:
 EDIT: I managed to fix my Light/Dark mode bug on my website! It turned out that I needed to make the Header component and add all my logic for switching from Light -> Dark mode in there. I'm so glad i fixed this tonight!
 
 **Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
+
+### Day 5: April 9, 2020
+
+**Today's Progress**: Added basic SEO, a Favicon and fixed some minor accessibility issues.
+
+**Thoughts**: I noticed these issues arising so I have fixed some of these tonight. I added some basic SEO guidelines, added in an emoji Favicon and fixed up some minor accessibility issues. I'll be looking into how I may be able to reduce the loading time of the images.
+
+**Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
