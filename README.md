@@ -63,3 +63,11 @@ EDIT: I managed to fix my Light/Dark mode bug on my website! It turned out that 
 **Thoughts**: I noticed these issues arising so I have fixed some of these tonight. I added some basic SEO guidelines, added in an emoji Favicon and fixed up some minor accessibility issues. I'll be looking into how I may be able to reduce the loading time of the images.
 
 **Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
+
+### Day 6: April 10, 2020
+
+**Today's Progress**: Learning React Redux and making a simple TODO List
+
+**Thoughts**: I was following a few tutorials, making a simple todo list app using react-redux, nextjs and the react redux nextjs wrapper. I will be working more on this project to expand it into a Goals app with more functionality than just a TODO list.
+
+**Link(s) to work**: [Learning Redux repository](https://github.com/developerpeachy/learning-redux)
