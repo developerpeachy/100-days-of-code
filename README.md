@@ -71,3 +71,11 @@ EDIT: I managed to fix my Light/Dark mode bug on my website! It turned out that 
 **Thoughts**: I was following a few tutorials, making a simple todo list app using react-redux, nextjs and the react redux nextjs wrapper. I will be working more on this project to expand it into a Goals app with more functionality than just a TODO list.
 
 **Link(s) to work**: [Learning Redux repository](https://github.com/developerpeachy/learning-redux)
+
+### Day 7: April 11, 2020
+
+**Today's Progress**: Adding some styles to the TODO list tutorial i was learning Redux from.
+
+**Thoughts**: I thought about adding some CSS to improve the usability of the TODO app, however, I got really busy today with personal and family commitments and decided to commit to 30 mins of coding today. I had only added some small CSS changes to the app.
+
+**Link(s) to work**: [Learning Redux repository](https://github.com/developerpeachy/learning-redux)
