@@ -79,3 +79,11 @@ EDIT: I managed to fix my Light/Dark mode bug on my website! It turned out that 
 **Thoughts**: I thought about adding some CSS to improve the usability of the TODO app, however, I got really busy today with personal and family commitments and decided to commit to 30 mins of coding today. I had only added some small CSS changes to the app.
 
 **Link(s) to work**: [Learning Redux repository](https://github.com/developerpeachy/learning-redux)
+
+### Day 8: April 12, 2020
+
+**Today's Progress**: Added the styles to the todo list tutorial
+
+**Thoughts**: I continued adding more styles to the TODO list tutorial, not that much progress today as I dont feel well (headache).
+
+**Link(s) to work**: [Learning Redux repository](https://github.com/developerpeachy/learning-redux)
