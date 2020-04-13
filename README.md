@@ -87,3 +87,11 @@ EDIT: I managed to fix my Light/Dark mode bug on my website! It turned out that 
 **Thoughts**: I continued adding more styles to the TODO list tutorial, not that much progress today as I dont feel well (headache).
 
 **Link(s) to work**: [Learning Redux repository](https://github.com/developerpeachy/learning-redux)
+
+### Day 8: April 13, 2020
+
+**Today's Progress**: Tried to deploy to now server, failed
+
+**Thoughts**: I tried to deploy this onto a server and it didnt work, so I kinda gave up on the coding bits and decided to delve into Blockchain research for my next mini blog.
+
+**Link(s) to work**: [Learning Redux repository](https://github.com/developerpeachy/learning-redux)
