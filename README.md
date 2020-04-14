@@ -95,3 +95,11 @@ EDIT: I managed to fix my Light/Dark mode bug on my website! It turned out that 
 **Thoughts**: I tried to deploy this onto a server and it didnt work, so I kinda gave up on the coding bits and decided to delve into Blockchain research for my next mini blog.
 
 **Link(s) to work**: [Learning Redux repository](https://github.com/developerpeachy/learning-redux)
+
+### Day 9: April 14, 2020
+
+**Today's Progress**: I have started adding the bits for my blog feature on my website.
+
+**Thoughts**: I am using Prismic with NextJS for my new serverless headless cms blog thing. This is more of an experiment, but if it works, I'll be happy.
+
+**Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
