@@ -103,3 +103,11 @@ EDIT: I managed to fix my Light/Dark mode bug on my website! It turned out that 
 **Thoughts**: I am using Prismic with NextJS for my new serverless headless cms blog thing. This is more of an experiment, but if it works, I'll be happy.
 
 **Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
+
+### Day 10: April 15, 2020
+
+**Today's Progress**: I was able to successfully serve blogs from my prismic server to my nextjs blog :)
+
+**Thoughts**: This was a bit of a workaround for me to get working, I had to make sure that I was mapping the right document types to the right places. Had to read the documentation to make sure it was right. Time to add more styling and support for images, quotes etc.
+
+**Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
