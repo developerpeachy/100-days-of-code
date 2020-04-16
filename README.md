@@ -111,3 +111,11 @@ EDIT: I managed to fix my Light/Dark mode bug on my website! It turned out that 
 **Thoughts**: This was a bit of a workaround for me to get working, I had to make sure that I was mapping the right document types to the right places. Had to read the documentation to make sure it was right. Time to add more styling and support for images, quotes etc.
 
 **Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
+
+### Day 11: April 16, 2020
+
+**Today's Progress**: Style changes to website but failed to deploy to now server :(
+
+**Thoughts**: This was so good at first until i actually checked my logs and realised that lol they BROKE so im going to have a go at fixing this tomorrow.
+
+**Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
