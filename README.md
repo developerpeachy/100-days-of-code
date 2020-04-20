@@ -119,3 +119,11 @@ EDIT: I managed to fix my Light/Dark mode bug on my website! It turned out that 
 **Thoughts**: This was so good at first until i actually checked my logs and realised that lol they BROKE so im going to have a go at fixing this tomorrow.
 
 **Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
+
+### Day 12: April 20, 2020
+
+**Today's Progress**: Fixed issues that accumulated over the weekend, fixed styling and published blogs
+
+**Thoughts**: This was so good to fix tonight! all weekend I was a bit devestated that it didnt work out as expected, after researching what went wrong, I soon realised that there were a lot of case typings and typos in some of the components. I thought that ES Lint would pick them up but I soon realised that I had two linting things working at the same time on my IDE. Finally fixed and published the changes.
+
+**Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
