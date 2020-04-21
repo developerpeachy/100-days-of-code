@@ -127,3 +127,11 @@ EDIT: I managed to fix my Light/Dark mode bug on my website! It turned out that 
 **Thoughts**: This was so good to fix tonight! all weekend I was a bit devestated that it didnt work out as expected, after researching what went wrong, I soon realised that there were a lot of case typings and typos in some of the components. I thought that ES Lint would pick them up but I soon realised that I had two linting things working at the same time on my IDE. Finally fixed and published the changes.
 
 **Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
+
+### Day 13: April 21, 2020
+
+**Today's Progress**: I added Prismic CMS to load all my projects and volunteering details.
+
+**Thoughts**: I have been meaning to do this for a while and I finally got around to doing this. So now that Prismic is set up with all of my endpoints, I'm able to update and delete posts for projects and volunteering on Prismic. This means that I wouldn't need to load all my text and images statically from ./public. This will ease some performance issues I hope!
+
+**Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
