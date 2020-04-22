@@ -135,3 +135,11 @@ EDIT: I managed to fix my Light/Dark mode bug on my website! It turned out that 
 **Thoughts**: I have been meaning to do this for a while and I finally got around to doing this. So now that Prismic is set up with all of my endpoints, I'm able to update and delete posts for projects and volunteering on Prismic. This means that I wouldn't need to load all my text and images statically from ./public. This will ease some performance issues I hope!
 
 **Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
+
+### Day 14: April 22, 2020
+
+**Today's Progress**: I had started on fixing performance and styling issues
+
+**Thoughts**: I have seen improvements in performance before and i want to continue doing that tonight. I have a migraine so im going to sleep early tonight. I had done some CSS and some accessibility fixes.
+
+**Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
