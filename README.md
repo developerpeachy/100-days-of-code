@@ -143,3 +143,11 @@ EDIT: I managed to fix my Light/Dark mode bug on my website! It turned out that 
 **Thoughts**: I have seen improvements in performance before and i want to continue doing that tonight. I have a migraine so im going to sleep early tonight. I had done some CSS and some accessibility fixes.
 
 **Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
+
+### Day 15: April 21, 2020
+
+**Today's Progress**: I made some changes to design and fixed accessibility issues.
+
+**Thoughts**: Recycled components and styles so that every page had the same spacing and layout. I also fixed accessibility issues.
+
+**Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
