@@ -151,3 +151,11 @@ EDIT: I managed to fix my Light/Dark mode bug on my website! It turned out that 
 **Thoughts**: Recycled components and styles so that every page had the same spacing and layout. I also fixed accessibility issues.
 
 **Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
+
+### Day 16: April 22, 2020
+
+**Today's Progress**: I did some design changes to my home page.
+
+**Thoughts**: Learned a bit about Keyframes and CSS animations to do the gradient fill effect and animations.
+
+**Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
