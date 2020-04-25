@@ -159,3 +159,11 @@ EDIT: I managed to fix my Light/Dark mode bug on my website! It turned out that 
 **Thoughts**: Learned a bit about Keyframes and CSS animations to do the gradient fill effect and animations.
 
 **Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
+
+### Day 17: April 23, 2020
+
+**Today's Progress**: I had to fix mobile version of my website
+
+**Thoughts**: I somehow got the margins wrong on mobile and saw that this needed to be prioritised so I went ahead to fix, seems to be okay now.
+
+**Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
