@@ -167,3 +167,11 @@ EDIT: I managed to fix my Light/Dark mode bug on my website! It turned out that 
 **Thoughts**: I somehow got the margins wrong on mobile and saw that this needed to be prioritised so I went ahead to fix, seems to be okay now.
 
 **Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
+
+### Day 18: April 27, 2020
+
+**Today's Progress**: I needed to get preview versions running on my website for blog drafts
+
+**Thoughts**: I could not get this working so i will try tomorrow, but i have managed to update and make a new blog.
+
+**Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
