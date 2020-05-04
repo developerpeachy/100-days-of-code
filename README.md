@@ -175,3 +175,43 @@ EDIT: I managed to fix my Light/Dark mode bug on my website! It turned out that 
 **Thoughts**: I could not get this working so i will try tomorrow, but i have managed to update and make a new blog.
 
 **Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
+
+### Day 18: April 27, 2020
+
+**Today's Progress**: I needed to get preview versions running on my website for blog drafts
+
+**Thoughts**: I could not get this working so i will try tomorrow, but i have managed to update and make a new blog.
+
+**Link(s) to work**: [Rosalie's website](https://rosalie.dev/)
+
+### Day 19: April 28, 2020
+
+**Today's Progress**: I worked on my latest Instagram post which took some time into coding
+
+**Thoughts**: I worked on coding at work all day so I thought I would blog today.
+
+### Day 20: April 29, 2020
+
+**Today's Progress**: I worked on work things, but also didn't want to fry my brain too much by coding more at night.
+
+**Thoughts**: I worked on implementing new UI library things at work and I didn't feel like coding after work.
+
+### Day 21: April 30, 2020
+
+**Today's Progress**: I also worked on work things all day, didn't see much energy working on things after it.
+
+**Thoughts**: I worked on implementing new UI library things at work and I didn't feel like coding after work.
+
+### Day 22: May 1, 2020
+
+**Today's Progress**: I rushed to get some features done for work so I did not bother coding on other things after work.
+
+**Thoughts**: I worked on implementing new UI library things at work and I didn't feel like coding after work.
+
+### Day 23: May 3, 2020
+
+**Today's Progress**: I got myself a volunteering gig to clean and redo the UTS Playmakers website, so I'll be doing this!
+
+**Thoughts**: Created a blueprint for the new UTS Playmakers website. I'll be working on this for a couple of days.
+
+**Link(s) to work**: [UTS Playmakers's github](https://github.com/utsplaymakers)
